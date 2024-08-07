@@ -7,5 +7,3 @@ The JSON structure is as follows-
 Each JSON object represents 1 form, and each label in the form along with it's data (Name- John Doe, Email-johndoe@gmail.com etc) makes up a key-value pair
 There are 5 key-value pairs and the view and edit submission in the front end has been designed to show these 5. The view is dynamic, and can show any 5 labels.
 The submit option is static and the labels are fixed.
-Although the data is being stored, there is some issue in viewing the stored submissions. I couldn't exactly figure it out hence it doesn't work as intended.
-The frontend can still read any JSON file given to it and view the submissions and cycle through them given the JSON file follows the structure I mentioned.
